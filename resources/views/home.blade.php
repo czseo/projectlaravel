@@ -8,6 +8,7 @@ Main Page title
 @section('content')
 <h1>Main Page new text</h1>
 test text in master branch
+some information
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequatur corporis deserunt ducimus enim eos facere laudantium numquam odio, quia quisquam, quod quos rem rerum tenetur. Culpa ipsam nisi vero?</p>
 
 @endsection
